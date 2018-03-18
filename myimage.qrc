@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/pause_press.png</file>
+        <file>image/pause_unhover.png</file>
+        <file>image/play_hover.png</file>
+        <file>image/play_press.png</file>
+        <file>image/play_unhover.png</file>
+        <file>image/prev_hover.png</file>
+        <file>image/prev_press.png</file>
+        <file>image/prev_unhover.png</file>
+        <file>image/pro_sound.bmp</file>
+        <file>image/progress.bmp</file>
+        <file>image/progress_sound.bmp</file>
+        <file>image/progress_thume.png</file>
+        <file>image/sound.png</file>
+        <file>image/sound_close.png</file>
+        <file>qss/skin.qss</file>
+        <file>image/close.png</file>
+        <file>image/min.png</file>
+        <file>image/prog_sound.bmp</file>
+        <file>image/addMore.png</file>
+        <file>image/logo.png</file>
+        <file>image/music_bg.bmp</file>
+        <file>image/next_hover.png</file>
+        <file>image/next_press.png</file>
+        <file>image/next_unhover.png</file>
+        <file>image/pause_hover.png</file>
+        <file>image/Ran.png</file>
+        <file>image/Seq.png</file>
+        <file>image/Single.png</file>
+    </qresource>
+</RCC>

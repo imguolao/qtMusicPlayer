@@ -1,0 +1,182 @@
+QPushButton#playPattern:!hover
+{
+        border-image: url(:/image/Seq.png);
+}
+QPushButton#playPattern:hover
+{
+        border-image: url(:/image/Seq.png);
+}
+QPushButton#playPattern:pressed{
+        border-image: url(:/image/Seq.png);
+}
+QPushButton#BtnClose:!hover
+{
+        border-image: url(:/image/close.png);
+}
+QPushButton#BtnClose:hover
+{
+        border-image: url(:/image/close.png);
+}
+QPushButton#BtnClose:pressed
+{
+        border-image: url(:/image/close.png);
+}
+QPushButton#BtnClose:focus{padding:-1;}
+
+
+
+QPushButton#addMore
+{
+        border-image: url(:/image/addMore.png);
+
+}
+
+
+QPushButton#BtnMin:!hover
+{
+        border-image: url(:/image/min.png);
+}
+QPushButton#BtnMin:hover
+{
+        border-image: url(:/image/min.png);
+}
+QPushButton#BtnMin:pressed
+{
+        border-image: url(:/image/min.png);
+}
+QPushButton#BtnMin:focus{padding:-1;}
+
+
+QPushButton#BtnPlay:!hover
+{
+        border-image: url(:/image/play_hover.png);
+}
+QPushButton#BtnPlay:hover
+{
+        border-image: url(:/image/play_hover.png);
+}
+QPushButton#BtnPlay:pressed
+{
+        border-image: url(:/image/play_press.png);
+}
+QPushButton#BtnPlay:focus
+{
+        padding:-1;
+}
+
+QPushButton#BtnPrev:!hover
+{
+        border-image: url(:/image/prev_hover.png);
+}
+QPushButton#BtnPrev:hover
+{
+        border-image: url(:/image/prev_hover.png);
+}
+QPushButton#BtnPrev:pressed
+{
+        border-image: url(:/image/prev_press.png);
+}
+QPushButton#BtnPrev:focus{padding:-1;}
+
+QPushButton#BtnNext:!hover
+{
+        border-image: url(:/image/next_hover.png);
+}
+QPushButton#BtnNext:hover
+{
+        border-image: url(:/image/next_hover.png);
+}
+QPushButton#BtnNext:pressed
+{
+        border-image: url(:/image/next_press.png);
+}
+QPushButton#BtnNext:focus{padding:-1;}
+
+
+QPushButton#muteButton:!hover
+{
+        border-image: url(:/image/sound.png);
+ }
+QPushButton#muteButton:hover
+{
+        border-image: url(:/image/sound.png);
+}
+QPushButton#muteButton:pressed
+{
+        border-image: url(:/image/sound_close.png);
+}
+QPushButton#muteButton:focus{padding:-1;}
+
+
+
+QSlider#volumeControl::groove:Vertical {
+        border: 0px solid #bbb;
+        background: rgba(0,0,0,0.1);
+        width: 4px;
+        border-radius: 1px;
+}
+
+QSlider#volumeControl::sub-page:Vertical {
+        background: rgba(0,0,0,0.1);
+        border: 0px solid #777;
+        width: 4px;
+        border-radius: 1px;
+}
+
+QSlider#volumeControl::add-page:Vertical {
+        background:url(:/image/progress_sound.bmp);
+        border: 0px solid #777;
+        width: 4px;
+        border-radius: 1px;
+}
+
+QSlider#volumeControl::handle:Vertical {
+        border-image:url(:/image/progress_thume.png);
+        border: 0px solid #777;
+        width: 28px;
+        height: 28px;
+        margin-left:-12px;
+        margin-right:-12px;
+        margin-top: -12px;
+        margin-bottom: -12px;
+        border-radius: 4px;
+}
+
+
+QSlider#seekSlider::groove:horizontal {
+        border-left:-14px solid;
+        background: rgba(0,0,0,0.1);
+        height: 4px;
+        border-radius: 4px;
+}
+
+QSlider#seekSlider::sub-page:horizontal {
+        background:url(:/image/progress.bmp);
+        border: 0px solid #777;
+        height: 4px;
+        border-radius: 4px;
+}
+
+QSlider#seekSlider::add-page:horizontal {
+        background: rgba(0,0,0,0.1);
+        border: 0px solid #777;
+        height: 4px;
+        border-radius:4px;
+}
+
+QSlider#seekSlider::handle:horizontal {
+        background:url(:/image/progress_thume.png);
+        border: 0px solid #777;
+        width: 28px;
+        height: 28px;
+        border-left:0px;
+        border-right:0px;
+        margin-left:2px;
+        margin-right:-12px;
+        margin-top: -12px;
+        margin-bottom: -12px;
+        border-radius: 4px;
+}
+
+
+
